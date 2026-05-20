@@ -9,3 +9,5 @@ Exercises/Solution/*.md
 # Notebook-generated artifacts that land at repo root when Jupyter cwd is the top of the tree
 /file.txt
 /pokemon_theme.txt
+
+.venv/
